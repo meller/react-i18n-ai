@@ -1,0 +1,19 @@
+{
+  "name": "react-i18n-ai",
+  "version": "1.0.0",
+  "description": "A simple Node package for AI-powered translation in React apps.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "i18n", "translation", "ai", "gemini", "localization"],
+  "author": "Your Name <your@email.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-i18n-ai.git"
+  }
+}
