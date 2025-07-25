@@ -182,4 +182,4 @@ preloadTranslations(['Save', 'Delete', 'Edit'], 'fr');
 MIT 
 
 ---
-For questions or contributions, see the MyWebApp repo or future standalone package.
+For questions or contributions, contact me on GitHub (@meller).
